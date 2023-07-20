@@ -4,7 +4,7 @@
 
 ##
 
-[![Linkedin: VerticalSols](https://img.shields.io/badge/-RizwanIqbalRao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//company/verticalsols/mycompany//)](https://www.linkedin.com/in//company/verticalsols/mycompany//)
+[![Linkedin: VerticalSols](https://img.shields.io/badge/-VerticalSols-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/company/verticalsols/mycompany//)](https://www.linkedin.com/in/company/verticalsols/mycompany//)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=iamrizwaniqbalrao) -->
 
@@ -49,7 +49,7 @@ const Rizwan = {
 
 <p align="left">
 <a href="https://twitter.com/VerticalSols" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VerticalSolsTwitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//company/verticalsols/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwaniqbalrao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/company/verticalsols/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwaniqbalrao" height="30" width="40" /></a>
 <a href="https://fb.com/verticalsols" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="verticalsolspvtFb" height="30" width="40" /></a>
 <a href="https://instagram.com/verticalsolspvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="verticalsolspvt" height="30" width="40" /></a>
 </p>
