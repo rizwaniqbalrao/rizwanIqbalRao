@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const bassam = {
+const Rizwan = {
 	pronouns: 'He' | 'Him',
 	code: ['Javascript', 'Python', 'Java', 'C++'],
 	askMeAbout: ['Web Dev', 'Tech', 'App Dev', 'Digital Marketing', 'Business'],
@@ -27,8 +27,8 @@ const bassam = {
 			php: ['Laravel']
 		},
 		mobileApp: {
-			native: ['Kotlin,Java,Swift'],
-			hybrid: ['Flutter,React-native']
+			native: ['Kotlin', 'Java', 'Swift'],
+			hybrid: ['Flutter', 'React-native']
 		},
 		databases: ['mongo', 'MySql', 'sqlite', 'Firebase', 'supabase']
 	},
