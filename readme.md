@@ -5,9 +5,7 @@
 ##
 
 [![Linkedin: VerticalSols](https://img.shields.io/badge/-VerticalSols-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/verticalsols/mycompany//)](https://www.linkedin.com/company/verticalsols/mycompany//)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=VerticalSols)
-
 ![GitHub followers](https://img.shields.io/github/followers/rizwaniqbalrao?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=rizwaniqbalrao.rizwaniqbalrao)
 
