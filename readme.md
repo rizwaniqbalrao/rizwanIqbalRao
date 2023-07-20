@@ -20,15 +20,17 @@ const bassam = {
 	askMeAbout: ['Web Dev', 'Tech', 'App Dev', 'Digital Marketing', 'Business'],
 	technologies: {
 		frontEnd: {
-			js: ['React']
+			js: ['React', 'Next']
 		},
 		backEnd: {
-			js: ['Node', 'Express']
+			js: ['Node', 'Nest', 'Express'],
+			php: ['Laravel']
 		},
 		mobileApp: {
-			native: ['Android Development']
+			native: ['Kotlin,Java,Swift'],
+			hybrid: ['Flutter,React-native']
 		},
-		databases: ['mongo', 'MySql', 'sqlite', 'Firebase']
+		databases: ['mongo', 'MySql', 'sqlite', 'Firebase', 'supabase']
 	},
 	architecture: ['Serverless Architecture', 'Progressive Web Applications', 'Single page applications']
 }
