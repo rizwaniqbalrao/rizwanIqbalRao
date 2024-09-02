@@ -42,11 +42,6 @@ const Rizwan = {
 
 ## Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/VerticalSols" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VerticalSolsTwitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/company/verticalsols/mycompany/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwaniqbalrao" height="30" width="40" /></a>
-<a href="https://fb.com/verticalsols" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="verticalsolspvtFb" height="30" width="40" /></a>
-<a href="https://instagram.com/verticalsolspvt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="verticalsolspvt" height="30" width="40" /></a>
-</p>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
